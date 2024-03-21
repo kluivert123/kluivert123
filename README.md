@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kluivert123
-- 👀 I’m interested in Data Science, Statistics, Artificial Intelligence and Deep Learning.
-- 🌱 I currently have a Masters degree in Applied Data Science at Teesside University
+- 👋 Hi, I’m Kluivert Boakye Duah
+- 👀 I’m interested in Data Science, Health Data Science, Bioinformatics, Statistics, Artificial Intelligence and Deep Learning.
+- 🌱 I currently have a Master's degree in Applied Data Science and doing my PhD in Medicine where I am harmonising and connecting blood cancer data.
 - 💞️ I’m looking to collaborate on MLOps and Artificial Intelligence Projects
 - 📫 How to reach me on https://www.linkedin.com/in/kluivert-boakye-duah-309264191/
 
